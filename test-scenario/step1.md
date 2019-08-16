@@ -1,4 +1,5 @@
-Add this script to the editor:
+
+Open `add.py`{{open}} and add this script to the editor:
 
 <pre class="file" data-filename="add.py" data-target="replace">
 def add(a, b):
